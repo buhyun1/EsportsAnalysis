@@ -1,16 +1,14 @@
 # EsportsAnalysis
 First Repository for esports data science
 
-# Title1
-## Title2
-### Title3
-#### Title4
-##### Title5
-###### 가로줄 넣기
+
+### 소개
+2023년 8월 14일- 9월 15일까지 진행된 Esports 데이터 분석
+
+노션 블로그에도 정리 돼있으니 방문해주세요
+[a](https://www.notion.so/E-SPORTS-cf6d889ea7104e1e94a7675cabcec9ab)
 ---
-- - - -
-****
-* * *
+
 
 안녕하세요
 
