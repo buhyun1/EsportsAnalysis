@@ -6,22 +6,38 @@ First Repository for esports data science
 2023년 8월 14일- 9월 15일까지 진행된 Esports 데이터 분석
 
 노션 블로그에도 정리 돼있으니 방문해주세요
-[a](https://www.notion.so/E-SPORTS-cf6d889ea7104e1e94a7675cabcec9ab)
+[(클릭)](https://www.notion.so/E-SPORTS-cf6d889ea7104e1e94a7675cabcec9ab)
+
+
 ---
 
 
-안녕하세요
+### 공부 순서
 
-반갑습니다
+1.[NUMPY](https://www.notion.so/NUMPY-d25df7ef387e45c3b1e060f54f79d008?pvs=21)
 
-잘가요
+2.[PANDAS](https://www.notion.so/PANDAS-e5acaa16f1b34c15b5730ffbd59642d7?pvs=21)
 
-다음에 봐요
+3.[MATPLOTLIB](https://www.notion.so/MATPLOTLIB-202e2dc87b8945e4a0d1d91cf6469e20?pvs=21)
 
-1.집에가서 파이썬 공부하기
-2.집에가서 롤하기
-3.집에가서 유튜브 보기
-4.집에가서 잠자기
+4.[API](https://www.notion.so/API-4f232665a691453f993f2b20d352d93d?pvs=21)
+
+5.[Regression ](https://www.notion.so/Regression-8f428a93fe5f451681821d78719d1d9b?pvs=21)
+
+6.[Decision Tree](https://www.notion.so/Decision-Tree-e400f2d7003b4abaa63092557e3f1419?pvs=21)
+
+7.[Random Forest](https://www.notion.so/Random-Forest-7ac53fad583f4d2682a554ebad0502d0?pvs=21)
+
+8.[Web Crawling](https://www.notion.so/Web-Crawling-6bb7d08be0734b689409409fbeee7939?pvs=21)
+
+9.[KeyBoard](https://www.notion.so/KeyBoard-7d67675ed0114491aca652d98d9e05ef?pvs=21)
+
+10.[OP.GG](https://www.notion.so/OP-GG-6566ee7b68eb47899ce7c271562c0182?pvs=21)
+
+11.[StreamLit](https://www.notion.so/StreamLit-e772a029b1844ab3abf93e8ba3364160?pvs=21)
+
+12.[Git](https://www.notion.so/Git-8ff3bbe7f4b74c95924bd1be31b35266?pvs=21)
+
 
 -탑
 
