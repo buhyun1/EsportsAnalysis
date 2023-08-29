@@ -50,8 +50,14 @@ print("Hello World")
 
 ```javascript
 <script>
-  let noew = new Date()
+  let now = new Date()
   let display = new.toLocaleTimeString()
-  document.write('현재 시각은 $(display) 입니다.')
+  document.write('현재 시각은 ${display} 입니다.')
 </script>
 ```
+
+<http://www.google.com>
+
+
+[구글](https://www.google.com, "클릭하면 구글로 이동합니다") 
+
