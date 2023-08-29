@@ -38,22 +38,15 @@ First Repository for esports data science
 
 12.[Git](https://www.notion.so/Git-8ff3bbe7f4b74c95924bd1be31b35266?pvs=21)
 
+---
 
-
-**리그오브레전드** 중요한 것 ~킬먹기~ *타워 깨기*
-
-
-### 소스코드 넣는법 (숫자 1옆 ``` 사용 ''' 아님)
+### 거북이 그리기
 
 ```python
-print("Hello World")
+import turtle as t
+t.shape('turtle')
+t.circle(120)
 ```
 
-```javascript
-<script>
-  let now = new Date()
-  let display = new.toLocaleTimeString()
-  document.write('현재 시각은 ${display} 입니다.')
-</script>
-```
+
 
