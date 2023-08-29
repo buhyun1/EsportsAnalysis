@@ -6,7 +6,7 @@ First Repository for esports data science
 2023년 8월 14일- 9월 15일까지 진행된 Esports 데이터 분석
 
 노션 블로그 보러가기 ->
-[(클릭)](https://www.notion.so/E-SPORTS-cf6d889ea7104e1e94a7675cabcec9ab)
+[(클릭)]([https://www.notion.so/E-SPORTS-cf6d889ea7104e1e94a7675cabcec9ab](https://www.notion.so/BUB-HYUN-5c091f56ce7b49c09212dbff1cbaced7))
 
 
 ---
