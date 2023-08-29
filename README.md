@@ -39,19 +39,6 @@ First Repository for esports data science
 12.[Git](https://www.notion.so/Git-8ff3bbe7f4b74c95924bd1be31b35266?pvs=21)
 
 
--탑
-
--정글
-
--미드
-  - 아리
-  - 카타리나
-
--원딜
-  
-  - 트리스타나
-
--서폿
 
 **리그오브레전드**에서 중요한 것은 ~킬먹기가 아니라~ *타워 깨기이다*
 오늘도 ***즐거운 게임*** 되시길
@@ -69,9 +56,4 @@ print("Hello World")
   document.write('현재 시각은 ${display} 입니다.')
 </script>
 ```
-
-<http://www.google.com>
-
-
-[구글](https://www.google.com, "클릭하면 구글로 이동합니다") 
 
